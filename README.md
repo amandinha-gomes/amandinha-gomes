@@ -1,6 +1,6 @@
 ## Amanda Gomes
 
-Bem vindo ao meu perfil do Git, muito prazer, me chamo Amanda, tenho 18 anos e sou formada no SESI 438, juntamente com o curso técnico de Desenvolvimento de Sistemas. Atualmente, estou cursando Inteligência e Análise de Dados no Senai Suiço-Brasileira em Santo Amaro.
+Bem vindo ao meu perfil, muito prazer, me chamo Amanda, tenho 18 anos e sou formada no SESI 438, juntamente com o curso técnico de Desenvolvimento de Sistemas. Atualmente, estou cursando Inteligência e Análise de Dados no Senai Suiço-Brasileira em Santo Amaro.
 
 - 🔭 Atualmente, sou estudante do ensino superior, apaixonada por front-end
 - 🌱 Além da faculdade, estudo Python e Design UI/UX
@@ -30,7 +30,7 @@ Bem vindo ao meu perfil do Git, muito prazer, me chamo Amanda, tenho 18 anos e s
 
  ##
 
-![Snake animation](https://github.com/amandinha-gomes/amandinha-gomes/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/amandinha-gomes/amandinha-gomes/blob/output/github-contribution-grid-snake.svg) -->
 
  ##
 
