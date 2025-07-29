@@ -1,7 +1,6 @@
 ## Amanda Gomes
 
-Bem vindo ao meu perfil, muito prazer, me chamo Amanda, tenho 18 anos e sou formada no SESI 438, juntamente com o curso técnico de Desenvolvimento de Sistemas. Atualmente, estou cursando Inteligência e Análise de Dados no Senai Suiço-Brasileira em Santo Amaro.
-
+Bem vindo ao meu perfil, me chamo Amanda, tenho 19 anos e sou formada no SESI 438 juntamente com o curso técnico de Desenvolvimento de Sistemas. Atualmente, estou cursando Inteligência e Análise de Dados no Senai Suiço-Brasileira em Santo Amaro.
 
 <div>
 <a href="https://github.com/amandinha-gomes">
