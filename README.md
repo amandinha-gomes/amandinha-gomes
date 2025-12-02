@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Amanda Gomes
 
-**`Desenvolvedora e Analista de Dados`**
+### **`Desenvolvedora e Analista de Dados`**
 
 Bem vindo ao meu perfil, me chamo Amanda, tenho 19 anos e sou formada no SESI 438 juntamente com o curso técnico de Desenvolvimento de Sistemas. Atualmente, estou cursando Inteligência e Análise de Dados no Senai Suiço-Brasileira em Santo Amaro.
 
