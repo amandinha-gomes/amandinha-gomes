@@ -18,7 +18,7 @@ Atuo no desenvolvimento de **projetos de análise de dados**, com foco em **dado
               
 <br/><br/>
 
-#### 🔹 Ferramentas e bibliotecas:
+#### 🔹 Ferramentas e Bibliotecas (Python)
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 <img align="left" alt="plotly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
 <img align="left" alt="streamlit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />            
