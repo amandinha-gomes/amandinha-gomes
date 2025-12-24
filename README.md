@@ -134,9 +134,13 @@ Atuo no desenvolvimento de **projetos de análise de dados**, com foco em **dado
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandinha-gomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 ---
+
 
 ### 🔗 Contato
 Sinta-se à vontade para entrar em contato comigo:
