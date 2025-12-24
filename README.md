@@ -1,16 +1,56 @@
 ## 👩🏻‍💻 Amanda Gomes
 
-### **`Desenvolvedora e Analista de Dados`**
+#### **`Analista de Dados em formação | Python e Dados Públicos`**
 
-Bem vindo ao meu perfil, me chamo Amanda, tenho 19 anos e sou formada no SESI 438 juntamente com o curso técnico de Desenvolvimento de Sistemas. Atualmente, estou cursando Inteligência e Análise de Dados no Senai Suiço-Brasileira em Santo Amaro.
+Bem-vinda(o) ao meu perfil!  
+Sou estudante de **Inteligência e Análise de Dados** no **SENAI Suíço-Brasileira (Santo Amaro)**, com formação técnica em **Desenvolvimento de Sistemas** pelo **SESI 438**.
+
+Atuo no desenvolvimento de **projetos de análise de dados**, com foco em **dados públicos, análise exploratória, visualização e apoio à tomada de decisão**.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 📊 Tecnologias em Dados
 
-<img 
-    align="left" 
-    alt="HTML"
+#### 🔹 Análise e Manipulação de Dados
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+                
+<br/><br/>
+
+#### 🔹 Ferramentas e bibliotecas:
+<img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img align="left" alt="plotly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
+<img align="left" alt="streamlit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />            
+
+<br/><br/>
+
+#### 🔹 Visualização de Dados e BI
+
+- Power BI
+- Plotly
+- Excel
+
+#### 🔹 Plataformas e Cloud
+<!-- <img align="left" alt="aws" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> -->
+- Databricks
+- AWS
+
+### 📊 Automação e Coleta de Dados
+#### 🔹 Web Scraping e Automação
+- BeautifulSoup
+- Selenium
+
+### Conhecimentos Complementares
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<br/><br/>
+
+<!--<img 
+    :align="left" 
+     alt="HTML"
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -69,12 +109,11 @@ Bem vindo ao meu perfil, me chamo Amanda, tenho 19 anos e sou formada no SESI 43
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+    style="padding-right: 10px;"  
+    <!-- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" -->
 
-<br/>
-<br/>
+<!-- <br/> -->
+<!-- <br/> -->
 
 --- 
 
@@ -96,27 +135,23 @@ Bem vindo ao meu perfil, me chamo Amanda, tenho 19 anos e sou formada no SESI 43
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandinha-gomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-<br/>
-<br/>
-
-<br/>
-<br/>
-
-<br/>
-<br/>
-
-<br/>
-<br/>
-
-<br/>
-<br/>
 
 ---
 
-### Minhas Redes Sociais
-`Sinta-se a vontade para entrar em contato comigo!`
+### 🔗 Contato
+Sinta-se à vontade para entrar em contato comigo:
+
+<div>
+  <a href="https://www.linkedin.com/in/amanda-gomes-a695a3297" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:amandafgomes847@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
  <div>
-  <a href="https://www.linkedin.com/in/amanda-gomes-a695a3297" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!-- <a href="https://www.linkedin.com/in/amanda-gomes-a695a3297" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/mandyy.fg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:amandafgomes847@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "mailto:amandafgomes847@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
  </div>
