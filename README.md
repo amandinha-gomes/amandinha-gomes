@@ -141,7 +141,6 @@ Atuo no desenvolvimento de **projetos de análise de dados**, com foco em **dado
 
 ---
 
-
 ### 🔗 Contato
 Sinta-se à vontade para entrar em contato comigo:
 
