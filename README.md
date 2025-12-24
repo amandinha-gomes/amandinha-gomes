@@ -14,7 +14,8 @@ Atuo no desenvolvimento de **projetos de análise de dados**, com foco em **dado
 #### 🔹 Análise e Manipulação de Dados
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-                
+<img align="left" alt="excel" width="30" height="30" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>
+              
 <br/><br/>
 
 #### 🔹 Ferramentas e bibliotecas:
@@ -25,15 +26,18 @@ Atuo no desenvolvimento de **projetos de análise de dados**, com foco em **dado
 <br/><br/>
 
 #### 🔹 Visualização de Dados e BI
-
-- Power BI
-- Plotly
-- Excel
+<img align="left" alt="bi" width="30"  style="padding-right:10px;" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
+<img align="left" alt="plotly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
+<!-- <img align="left" alt="excel" width="30px" height="90" style="padding-right:10px;" src="https://github.com/user-attachments/assets/9a317ac5-00a1-48b1-a369-4bca2ef4d71b" /> -->
+<!-- <img align="left" alt="excel" width="35" height="35" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/> -->
+<br/><br/>
 
 #### 🔹 Plataformas e Cloud
 <!-- <img align="left" alt="aws" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> -->
-- Databricks
-- AWS
+<img align="left" alt="plotly" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/9ca94529-e4fb-4a88-b4ed-e493ffa85c95" />
+<img align="left" alt="plotly" width="35px" style="padding-right:10px;" src="https://img.icons8.com/color/48/amazon-web-services.png" />
+<br/><br/>
+
 
 ### 📊 Automação e Coleta de Dados
 #### 🔹 Web Scraping e Automação
