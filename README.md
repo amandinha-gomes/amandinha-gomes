@@ -114,6 +114,7 @@ Bem vindo ao meu perfil, me chamo Amanda, tenho 19 anos e sou formada no SESI 43
 ---
 
 ### Minhas Redes Sociais
+`Sinta-se a vontade para entrar em contato comigo!`
  <div>
   <a href="https://www.linkedin.com/in/amanda-gomes-a695a3297" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/mandyy.fg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
