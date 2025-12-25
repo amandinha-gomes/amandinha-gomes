@@ -129,7 +129,7 @@ Atuo no desenvolvimento de **projetos de análise de dados**, com foco em **dado
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=amandinha-gomes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=amandinha-gomes&show_icons=truet&heme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
@@ -138,6 +138,8 @@ Atuo no desenvolvimento de **projetos de análise de dados**, com foco em **dado
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandinha-gomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</p>
+
 <br/><br/>
 <br/><br/>
 <br/><br/>
