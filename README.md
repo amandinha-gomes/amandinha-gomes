@@ -1,6 +1,6 @@
-## 👩🏻‍💻 Amanda Gomes
+## 👩🏻‍💻 Amanda Ferreira Gomes
 
-#### **`Analista de Dados em formação | Python e Dados Públicos`**
+### **`Analista de Dados em formação`**
 
 Bem-vinda(o) ao meu perfil!  
 Sou estudante de **Inteligência e Análise de Dados** no **SENAI Suíço-Brasileira (Santo Amaro)**, com formação técnica em **Desenvolvimento de Sistemas** pelo **SESI 438**.
@@ -11,28 +11,28 @@ Atuo no desenvolvimento de **projetos de análise de dados**, com foco em **dado
 
 ### 📊 Tecnologias em Dados
 
-#### 🔹 Análise e Manipulação de Dados
+### 🔹 Análise e Manipulação de Dados
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="left" alt="excel" width="30" height="30" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>
               
 <br/><br/>
 
-#### 🔹 Ferramentas e Bibliotecas (Python)
+### 🔹 Ferramentas e Bibliotecas (Python)
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 <img align="left" alt="plotly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
 <img align="left" alt="streamlit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />            
 
 <br/><br/>
 
-#### 🔹 Visualização de Dados e BI
+### 🔹 Visualização de Dados e BI
 <img align="left" alt="bi" width="30"  style="padding-right:10px;" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
 <img align="left" alt="plotly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
 <!-- <img align="left" alt="excel" width="30px" height="90" style="padding-right:10px;" src="https://github.com/user-attachments/assets/9a317ac5-00a1-48b1-a369-4bca2ef4d71b" /> -->
 <!-- <img align="left" alt="excel" width="35" height="35" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/> -->
 <br/><br/>
 
-#### 🔹 Plataformas e Cloud
+### 🔹 Plataformas e Cloud
 <!-- <img align="left" alt="aws" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> -->
 <img align="left" alt="plotly" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/9ca94529-e4fb-4a88-b4ed-e493ffa85c95" />
 <img align="left" alt="plotly" width="35px" style="padding-right:10px;" src="https://img.icons8.com/color/48/amazon-web-services.png" />
@@ -40,7 +40,7 @@ Atuo no desenvolvimento de **projetos de análise de dados**, com foco em **dado
 
 
 ### 📊 Automação e Coleta de Dados
-#### 🔹 Web Scraping e Automação
+### 🔹 Web Scraping e Automação
 - BeautifulSoup
 - Selenium
 
@@ -121,32 +121,32 @@ Atuo no desenvolvimento de **projetos de análise de dados**, com foco em **dado
 
 --- 
 
-### 📊 Estatísticas
 
-<p>
+<!-- <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=amandinha-gomes&show_icons=truet&heme=dracula&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://github-readme-stats.vercel.app/api?username=amandinha-gomes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  /> -->
 
-<img 
+<!-- <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandinha-gomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</p> -->
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
 
----
+<!-- <br/><br/>
+<br/><br/>
+<br/><br/> -->
+<!-- <br/><br/> -->
+<!-- <br/><br/> -->
+
+
 
 ### 🔗 Contato
 Sinta-se à vontade para entrar em contato comigo:
